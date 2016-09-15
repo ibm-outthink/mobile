@@ -10,7 +10,8 @@ This service radically simplifies building, managing, and updating your mobile a
 
 For more information, read <a href="https://console.ng.bluemix.net/docs/services/mobilefoundation/index.html">Getting Started with Mobile Foundation</a>
 
-
 <a href="https://youtu.be/OsfWxKXv7jo">Gradual Feature Rollout with IBM MobileFirst Foundation 8.0 </a>
+
+# Mobile enterprise usecase:
 
 <img src="https://c3.staticflickr.com/9/8388/28737251394_b0b8d4213e_z.jpg" width="640" height="368" alt="Hybrid app">
