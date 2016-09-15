@@ -2,7 +2,12 @@
 
 The IBM Bluemix cloud ewnvironment provides several mobile technologies and services that can be used for creating mobile apps. This short guide will help mobile app developers select the products that best fit their needs.
 
-Selecting the best tools for creating cool mobile apps
+## Selecting the best tools for creating cool mobile apps, quick guide:
+<ol>
+<li>If you want to create a mobile att with a Native Android or iOS GUI and Watson services, chose Option 3
+<li>If you want to create a Web app with Watson services, chose Option 2
+</ol>
+
 
 # Use Cases
 
