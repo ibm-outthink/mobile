@@ -1,0 +1,10 @@
+1) Design Thinking and clearly defining developer pain points are obvious starting points for Developer Journeys
+
+2) Use Cases define the tasks that the developers perform on their Journey. They can be industry-specific or not, but it is best if they 
+    are not
+    
+3) Use cases are based on underlying Architecture Patterns, which often are cross-industry.
+
+4) Code snippets rather than Sample Apps.  In today's cloud space sample apps have a very short half-life  because they have too many moving parts and  
+    dependencies and are seldom maintained.  
+   
