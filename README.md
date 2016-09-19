@@ -6,7 +6,7 @@ The IBM Bluemix cloud ewnvironment provides several mobile technologies and serv
 
 ##  Goal: how do I write a cool mobile app to manipulate Bluemix and other services?
 
-##A#udience: Intermediate mobile and cloud developers
+###Audience: Intermediate mobile and cloud developers
 
 ###Time to com0lete the journey: 4 hours
 
