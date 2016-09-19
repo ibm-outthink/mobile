@@ -11,7 +11,7 @@ The IBM Bluemix cloud ewnvironment provides several mobile technologies and serv
 <li>Basic Knowledge of iOS and Android coding.
 <li>Basic knowledge of Bluemix services
 </ol>
-##Target utilization: Used for workshops, blasts, meetupss and hackathon
+##Target utilization: Used for workshops, blasts, meetups and hackathon
 
 # What Use Case are you interested in?
 
