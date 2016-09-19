@@ -89,7 +89,7 @@ dW articles on this process:
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/dpu/29565094272/in/dateposted-public/" title="Watson Developer Cloud Android SDK"><img src="https://c1.staticflickr.com/9/8815/29565094272_bb9f27e775_z.jpg" width="640" height="109" alt="Watson Developer Cloud Android SDK"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
-## Option 4) <a href="enterprise.md">Enterprise Mobile Development</a>
+## Option 4) Mobile Foundation and <a href="enterprise.md">Enterprise Mobile Development</a>
 
 # Additional knowledge sources
 <a href="https://www.ibm.com/developerworks/learn/mobile/index.html">IBM developerWorks Mobile development</a>
