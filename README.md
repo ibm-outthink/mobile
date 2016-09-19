@@ -14,7 +14,7 @@ The IBM Bluemix cloud ewnvironment provides several mobile technologies and serv
 <li><a href="https://developer.ibm.com/clouddataservices/offline-first/">Offline First 2</a>
 <li><a href="https://www.ibm.com/developerworks/cloud/library/cl-bluemix-famous-mobile/">Automate Famo.us mobile apps with Cloudant on Bluemix</a>
 </ol>
-<li>Cognitive apps using Watson
+<li>Cognitive apps using Watson serviuces on Bluemix
 <ol>
 <li><a href="https://github.com/watson-developer-cloud/ios-sdk">Watson Developer Cloud iOS SDK</a>
 <li><a href="https://github.com/watson-developer-cloud/speech-android-sdk">Watson Developer Cloud Android SDK</a>
