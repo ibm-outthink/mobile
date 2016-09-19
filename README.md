@@ -12,6 +12,7 @@ The IBM Bluemix cloud ewnvironment provides several mobile technologies and serv
 <li><a href="https://developer.ibm.com/clouddataservices/offline-first/">Offline First</a>
 <li><a href="https://youtu.be/yZuGCrJbIJs">Offline-first apps with PouchDB - Fluent 2016</a>
 <li><a href="https://developer.ibm.com/clouddataservices/offline-first/">Offline First 2</a>
+<li><a href="http://www.tricedesigns.com/2015/03/27/geopix-a-native-ios-app-powered-by-ibm-mobilefirst-for-bluemix/">GeoPix is Geopix is a sample application to capture data and images on a mobile device, persist that data locally (offline), and replicate that data to the cloud. </a>
 </ol>
 <li>Cognitive apps using Watson
 <ol>
