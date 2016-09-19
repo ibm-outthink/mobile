@@ -23,6 +23,7 @@ The IBM Bluemix cloud ewnvironment provides several mobile technologies and serv
 <li>TBD
 </ol>
 
+#How do you want to create your mobile app?
 # Option 1) For coders: Use Bluemix Mobile (Bluemix Services Starter) to create Mobile apps with Bluemix services
  
  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/dpu/29385313710/in/dateposted-public/" title="MobileFirstServicvesStarter"><img src="https://c7.staticflickr.com/9/8095/29385313710_63671ff7d3_z.jpg" width="640" height="239" alt="MobileFirstServicvesStarter"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
