@@ -15,3 +15,7 @@ For more information, read <a href="https://console.ng.bluemix.net/docs/services
 # Mobile enterprise usecase with MobileFirst Services starter:
 
 <img src="https://c3.staticflickr.com/9/8388/28737251394_b0b8d4213e_z.jpg" width="640" height="368" alt="Hybrid app">
+
+## Additional Sources:
+
+<a href="https://mobilefirstplatform.ibmcloud.com/blog/2016/07/11/analytics-bm-service/">Configuring Mobile Analytics and Mobile Foundation Bluemix services</a>
