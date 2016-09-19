@@ -5,15 +5,13 @@ The IBM Bluemix cloud ewnvironment provides several mobile technologies and serv
 ##  Goal: how do I write a cool mobile app to manipulate Bluemix and other services?
 
 ###Audience: Intermediate mobile and cloud developers
-
-###Time to com0lete the journey: 4 hours
-
-###Pre-requisites (Journeys): 
- 
-###Sample code: location on github with sample code snippets
-Guidance: Snippets should preferable be contained in a simple example that highlights the journey and nothing else.  Complete applications will be a nightmare to maintain. 
-
-##Target utilization: Ysed for workshops, blasts, meetupss and hackathon
+###Time to complete the journey: 4 hours
+###Pre-requisites (Journeys):
+<ol>
+<li>Basic Knowledge of iOS and Android coding.
+<li>Basic knowledge of Bluemix services
+</ol>
+##Target utilization: Used for workshops, blasts, meetupss and hackathon
 
 # What Use Case are you interested in?
 
