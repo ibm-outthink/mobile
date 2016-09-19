@@ -2,6 +2,31 @@
 
 The IBM Bluemix cloud ewnvironment provides several mobile technologies and services that can be used for creating mobile apps. This short guide will help mobile app developers select the products that best fit their needs.
 
+# Developer Journey
+
+##Title: How do I make my enterprise data available as an API to my mobile application
+Guidance: What business problem does this solve.  It is a generalized use case, and should be technology agnostic. It should be descriptive so that developers can associate it with the problem they are addressing.  similar to a use case but more generalized, for example, 
+
+##Audience: Intermediate NodeJS developers
+Guidance: Assumptions about the knowledge of the developers that would be undertaking this developer journey
+
+##Time: 4 hours
+Guidance: Time to complete the journey
+
+Journey description: Step by step instructions to lead a developer through the journey. 
+Guidance: Each step could be a tutorial or a youtube video or a tutorial or similar that describes that portion of the journey.  Each journey could be a single step or more then one step.  Each step should lead the developer onto the next step.  Clear instructions with links. 
+
+##Pre-requisites (Journeys): 
+Guidance: Describes other learnings and journeys that are recommended prior to undertaking this journey. 
+
+##Sample code: location on github with sample code snippets
+Guidance: Snippets should preferable be contained in a simple example that highlights the journey and nothing else.  Complete applications will be a nightmare to maintain. 
+
+##Target utilization: is it going to be used for workshop, blast, meetups, hackathon, etc.
+
+
+
+
 
 # What Use Case are you interested in?
 
