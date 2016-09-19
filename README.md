@@ -29,7 +29,8 @@ The IBM Bluemix cloud ewnvironment provides several mobile technologies and serv
  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/dpu/29385313710/in/dateposted-public/" title="MobileFirstServicvesStarter"><img src="https://c7.staticflickr.com/9/8095/29385313710_63671ff7d3_z.jpg" width="640" height="239" alt="MobileFirstServicvesStarter"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
  
  <a href="https://console.ng.bluemix.net/catalog/starters/mobilefirst-services-starter/">Mobile First Services Starter</a> allows you to develop, deploy, and scale server-side JavaScript® apps with ease. The IBM SDK for Node.js™ provides enhanced performance, security, and serviceability.
- Services included:
+ 
+ ###Services included:
  <ol>
  <li><a href="">SDK for Node.js</a>
  <li><a href="https://console.ng.bluemix.net/catalog/services/mobile-client-access/">Mobile Client Access</a>
@@ -37,6 +38,7 @@ The IBM Bluemix cloud ewnvironment provides several mobile technologies and serv
  <li><a href="https://console.ng.bluemix.net/catalog/services/cloudant-nosql-db/">Cloudant NoSQL DB</a>
  </ol>
  
+### Sample applications: 
 
 ## Option 2) For non-coders: Use the <a href="https://appbuilder.ibmcloud.com/">Mobile App Builder </a> to create catalog apps. 
 The Mobile App Builder makes it super easy to quickly create mobile GUIs without coding. You can then connect the user interface to backend data sources, again without coding.  
