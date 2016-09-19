@@ -1,8 +1,6 @@
-# Mobile
+# Mobile Developer Journey
 
 The IBM Bluemix cloud ewnvironment provides several mobile technologies and services that can be used for creating mobile apps. This short guide will help mobile app developers select the products that best fit their needs.
-
-# Developer Journey
 
 ##  Goal: how do I write a cool mobile app to manipulate Bluemix and other services?
 
