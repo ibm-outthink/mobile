@@ -20,7 +20,7 @@ The IBM Bluemix cloud ewnvironment provides several mobile technologies and serv
 <li><a href="https://github.com/watson-developer-cloud/speech-android-sdk">Watson Developer Cloud Android SDK</a>
 </ol>
 <li>Mobile and Wearables
-<li>TBD
+<li><a href="https://developer.ibm.com/bluemix/2016/07/06/you-exercise-and-bluemix-will-count/">You do the exercise, Bluemix will do the counting</a>
 </ol>
 
 #How do you want to create your mobile app?
