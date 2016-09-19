@@ -91,3 +91,5 @@ dW articles on this process:
 
 ## Option 4) <a href="enterprise.md">Enterprise Mobile Development</a>
 
+# Additional knowledge sources
+<a href="https://www.ibm.com/developerworks/learn/mobile/index.html">IBM developerWorks Mobile development</a>
