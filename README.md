@@ -28,6 +28,7 @@ The IBM Bluemix cloud ewnvironment provides several mobile technologies and serv
 <ol>
 <li><a href="https://github.com/watson-developer-cloud/ios-sdk">Watson Developer Cloud iOS SDK</a>
 <li><a href="https://github.com/watson-developer-cloud/speech-android-sdk">Watson Developer Cloud Android SDK</a>
+<li><a href="https://developer.ibm.com/courses/all-courses/create-swift-mobile-apps-with-ibm-watson-services/">Create Swift mobile apps with IBM Watson services</a>
 </ol>
 <li>Mobile and Wearables
 <ol>
